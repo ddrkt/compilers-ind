@@ -1,0 +1,7 @@
+if 1 < 2 then x := 3 else x := 4 end;
+n := 3;
+p := 1;
+while n > 0 do
+  p := p * n;
+  n := n - 1
+end
